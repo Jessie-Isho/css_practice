@@ -21,7 +21,7 @@
   font-size: 20px;
 }
 
-.text ,.text-child {
+.text .text-child {
   color: red;
   font-size: 14px;
 }
