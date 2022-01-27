@@ -1,0 +1,14 @@
+.black-butt {
+    background-color: black;
+    color: white;
+}
+
+.yellow-butt {
+    background-color: yellow;
+    color: white;
+}
+
+.black-butt, .yellow-butt {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
